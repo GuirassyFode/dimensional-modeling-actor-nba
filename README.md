@@ -23,3 +23,4 @@ This repository showcases two dimensional modeling exercises using PostgreSQL, b
 Each model demonstrates real-world practices: deduplication, Slowly Changing Dimensions (SCD), use of custom types, and clean data ingestion for analytics.
 
 > Built as part of [Zach Wilson's DataExpert Labs](https://dataexpert.io), with automated LLM feedback and an `A` grade evaluation.
+![Screenshot 2025-06-24 at 8 09 27 AM](https://github.com/user-attachments/assets/c4417000-02ec-4053-8422-86e4cdb62c85)
