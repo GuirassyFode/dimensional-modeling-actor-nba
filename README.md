@@ -2,15 +2,16 @@
 
 dimensional-modeling-actor-nba/
 │
-├── README.md                  <- Summary & walkthrough (your tutorial content)
+├── README.md
 ├── sql/
-│   ├── actor_model.sql        <- All actor-related DDL and INSERT scripts
-│   ├── nba_fact_table.sql     <- Game fact table creation and insert logic
-│   └── views_analysis.sql     <- Optional: queries for reporting & insights
+│   ├── actor_model.sql
+│   ├── nba_fact_table.sql
+│   └── views_analysis.sql
 ├── data/
 │   ├── sample_actor_films.csv
 │   └── sample_game_details.csv
 └── LICENSE
+
 
 # Dimensional Modeling Projects: Actors & NBA Games
 
